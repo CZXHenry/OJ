@@ -13,5 +13,16 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\Nowcoder">
+      <UniqueIdentifier>{bdabe0cc-9e89-4d2d-be57-c74cb6259e63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Nowcoder\LeetCode148">
+      <UniqueIdentifier>{d0a428e7-50d9-48e7-adc3-9c43f665a12b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="maximum-depth-of-binary-tree .cpp">
+      <Filter>源文件\Nowcoder\LeetCode148</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
