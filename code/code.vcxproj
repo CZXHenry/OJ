@@ -142,7 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="maximum-depth-of-binary-tree .cpp" />
+    <ClCompile Include="Nowcode\leetcode148\maximum-depth-of-binary-tree .cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
